@@ -1,7 +1,7 @@
 # ProyectoIA-KNN
 
 
-Ver qué personas elegibles para obtener un préstamo dependiendo de características como:
+Determinar la probabilidad que a las personas les aprueben un préstamo dependiendo de características como:
 
 Nivel de educación
 Edad
